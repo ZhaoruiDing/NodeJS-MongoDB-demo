@@ -4,4 +4,4 @@
 2. Download Robo3T which is a GUI for MongoDB.
 
 
-Insert, Find, Delete are under the dir named playground
+Insert, Find, Update, Delete are under the dir named playground
